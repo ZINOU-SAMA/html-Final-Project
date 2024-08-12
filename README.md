@@ -13,7 +13,7 @@
 
 ## Project Structure
 
-- `index.html`: The main HTML file containing the structure and content of the webpage.
+- `restaurant_menu.html`: The main HTML file containing the structure and content of the webpage.
 
 ## Code Description
 
